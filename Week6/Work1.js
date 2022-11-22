@@ -21,4 +21,4 @@ console.log("         ",order.Itemorder[2],order.Price[1]*order.Qty[0])
 let Result2 = (order.Price[1]*order.Qty[2])+(order.Price[1]*order.Qty[0])
 console.log("   Result  ",Result2) 
 
-console.log("Sum = ",Result0+Result1+Result2)
+console.log("Sum. = ",Result0+Result1+Result2)
